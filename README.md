@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a physics student @ University of Milan //
+I'm a physics student @ University of Milan
+
 Currently in Erasmus @ Universität Wien
 
 <!--
