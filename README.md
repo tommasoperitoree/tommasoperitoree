@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a physics student @ University of Milan
+Currently in Erasmus @ Universität Wien
 
 <!--
 **tommasoperitoree/tommasoperitoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
